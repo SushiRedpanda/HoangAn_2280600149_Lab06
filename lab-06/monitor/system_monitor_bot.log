@@ -1,0 +1,18 @@
+2025-04-01 09:55:24,457 - INFO - System Monitor: Starting system monitoring...
+2025-04-01 09:55:24,460 - INFO - CPU: Usage: 25.4%
+2025-04-01 09:55:24,461 - INFO - Memory: Usage: 44.2%
+2025-04-01 09:55:29,818 - INFO - HTTP Request: POST https://api.telegram.org/bot7689663631:AAGIAZdqn5jAjEOVoy4fYi1dJnmiLOcqoxo/sendMessage "HTTP/1.1 200 OK"
+2025-04-01 09:55:29,827 - INFO - System Monitor: --------------------------------------------------
+2025-04-01 09:56:29,835 - INFO - CPU: Usage: 19.9%
+2025-04-01 09:56:29,837 - INFO - Memory: Usage: 44.6%
+2025-04-01 09:56:31,396 - INFO - HTTP Request: POST https://api.telegram.org/bot7689663631:AAGIAZdqn5jAjEOVoy4fYi1dJnmiLOcqoxo/sendMessage "HTTP/1.1 200 OK"
+2025-04-01 09:56:31,405 - INFO - System Monitor: --------------------------------------------------
+2025-04-01 09:57:47,738 - INFO - System Monitor: Starting system monitoring...
+2025-04-01 09:57:47,741 - INFO - CPU: Usage: 25.8%
+2025-04-01 09:57:47,742 - INFO - Memory: Usage: 44.7%
+2025-04-01 09:57:49,323 - INFO - HTTP Request: POST https://api.telegram.org/bot7689663631:AAGIAZdqn5jAjEOVoy4fYi1dJnmiLOcqoxo/sendMessage "HTTP/1.1 200 OK"
+2025-04-01 09:57:49,334 - INFO - System Monitor: --------------------------------------------------
+2025-04-01 09:58:49,341 - INFO - CPU: Usage: 17.3%
+2025-04-01 09:58:49,343 - INFO - Memory: Usage: 44.8%
+2025-04-01 09:58:50,860 - INFO - HTTP Request: POST https://api.telegram.org/bot7689663631:AAGIAZdqn5jAjEOVoy4fYi1dJnmiLOcqoxo/sendMessage "HTTP/1.1 200 OK"
+2025-04-01 09:58:50,871 - INFO - System Monitor: --------------------------------------------------
